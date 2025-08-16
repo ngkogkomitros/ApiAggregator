@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aggregator.Api", "Aggregator.Api\Aggregator.Api.csproj", "{EAD9E059-B967-4909-97A6-9453FEE38515}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aggregator.Core", "Aggregator.Core\Aggregator.Core.csproj", "{5BFB4427-5231-4B6F-BD85-2D35C5E795D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aggregator.Tests", "Aggregator.Tests\Aggregator.Tests.csproj", "{68EBBB15-0ECE-4091-A231-4A7779075B02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAD9E059-B967-4909-97A6-9453FEE38515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD9E059-B967-4909-97A6-9453FEE38515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD9E059-B967-4909-97A6-9453FEE38515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD9E059-B967-4909-97A6-9453FEE38515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BFB4427-5231-4B6F-BD85-2D35C5E795D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFB4427-5231-4B6F-BD85-2D35C5E795D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFB4427-5231-4B6F-BD85-2D35C5E795D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFB4427-5231-4B6F-BD85-2D35C5E795D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68EBBB15-0ECE-4091-A231-4A7779075B02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68EBBB15-0ECE-4091-A231-4A7779075B02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68EBBB15-0ECE-4091-A231-4A7779075B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68EBBB15-0ECE-4091-A231-4A7779075B02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
